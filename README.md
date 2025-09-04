@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Sou Gabriel Alves, tenho 22 anos e nasci em São Paulo. Terminei o ensino médio no Colégio Inovação e hoje estou cursando Ciência da Computação. A área de tecnologia sempre despertou meu interesse, em especial o desenvolvimento de sistemas e a segurança da informação. Procuro constantemente aprender novas ferramentas, linguagens e metodologias, com o objetivo de aplicar esse conhecimento em soluções criativas e práticas. Também valorizo o contato com outras pessoas da área, trocando experiências e acompanhando as tendências que moldam o futuro da computação.
 
 <p align="left">
     <a href="https://www.youtube.com/@?sub_confirmation=1">
