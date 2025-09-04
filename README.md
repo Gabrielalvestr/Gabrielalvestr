@@ -158,10 +158,7 @@ Sou Gabriel Alves, tenho 22 anos e nasci em São Paulo. Terminei o ensino médio
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gabrielalvestr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  <!-- GithubStats -->
+![jootaz GitHub stats](https://github-readme-stats.vercel.app/api?username=jootaz&show_icons=true&theme=gotham)
+<a href="https://github.com/jootaz">
   />
