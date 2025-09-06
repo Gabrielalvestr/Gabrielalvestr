@@ -78,11 +78,11 @@ Sou Gabriel Alves, tenho 22 anos e nasci em São Paulo. Terminei o ensino médio
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="MYSQL" 
+    title="MYSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 <img 
     align="left" 
