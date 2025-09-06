@@ -62,11 +62,13 @@ Sou Gabriel Alves, tenho 22 anos e nasci em São Paulo. Terminei o ensino médio
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="C++"
+    title="C++" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+    />
+          
 />
 <img 
     align="left" 
