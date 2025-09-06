@@ -94,12 +94,13 @@ Sou Gabriel Alves, tenho 22 anos e nasci em São Paulo. Terminei o ensino médio
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="AWS" 
+    title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+    />
+          
 <img 
     align="left" 
     alt="JQuery" 
