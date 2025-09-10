@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Sou Gabriel Alves, tenho 22 anos e nasci em São Paulo. Terminei o ensino médio no Colégio Inovação e hoje estou cursando Ciência da Computação. A área de tecnologia sempre despertou meu interesse, em especial o desenvolvimento de sistemas e a segurança da informação. Procuro constantemente aprender novas ferramentas, linguagens e metodologias, com o objetivo de aplicar esse conhecimento em soluções criativas e práticas. Também valorizo o contato com outras pessoas da área, trocando experiências e acompanhando as tendências que moldam o futuro da computação.
-adadada
+
 
 
 </p>
