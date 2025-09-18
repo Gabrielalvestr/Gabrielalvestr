@@ -10,7 +10,7 @@ Sou Gabriel Alves, tenho 22 anos e nasci em São Paulo. Terminei o ensino médio
 ---
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN-AQUI/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-alves-a48915229/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:SEU-EMAIL@provedor.com" target="_blank">
